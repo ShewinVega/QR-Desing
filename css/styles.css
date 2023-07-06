@@ -64,17 +64,12 @@ p {
 }
 
 .attribution {
-  margin-top: 15px;
+ margin-bottom: 50px;
 }
 
 
 @media ( max-width: 960px ) {
-
-
   .sub-content {
     padding: 0.2% 1% 1% 1%;
   }
-
-
-
 }
